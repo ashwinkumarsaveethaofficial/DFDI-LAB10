@@ -1,4 +1,4 @@
-# Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
+# EX 10: Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
 ## AIM:
 To use Wireshark to analyze web browser activities and inspect email headers from captured network traffic.
 
