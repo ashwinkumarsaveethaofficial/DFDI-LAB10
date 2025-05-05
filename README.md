@@ -3,8 +3,8 @@
 To use Wireshark to analyze web browser activities and inspect email headers from captured network traffic.
 
 ```
-Register Number: 212222040121
-Name: Praveen V
+Register Number: 212222040020
+Name: Ashwinkumar S
 ```
 
 ## DESIGN STEPS:
